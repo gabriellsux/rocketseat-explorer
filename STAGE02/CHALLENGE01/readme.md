@@ -17,6 +17,8 @@ Me desafiei a não olhar a resposta, porem caso apareça alguma dificuldade, eu 
 # Preview do projeto 🤩
 
 ![Screenshot_1](https://user-images.githubusercontent.com/101990719/175836881-4c24443a-2c2b-4d57-8ba1-89409db74bab.png)
+<br/>
+<a href="https://rocketseat-explorer-nu.vercel.app/" target="_blank" >Móveis Costumizados</a>
 
 </div>
 <h2 align="center"> Para fazer o desafio usei 👇</h2>
