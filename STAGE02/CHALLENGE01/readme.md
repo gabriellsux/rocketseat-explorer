@@ -12,7 +12,7 @@ Me desafiei a não olhar a resposta, porem caso apareça alguma dificuldade, eu 
 
 <div align="center">
 
-<a href="https://gabriellsux.github.io/rocketseat-explorer/STAGE02/CHALLENGE01" target="_blank" > <h1> Deploy **🚀** </h1></a>
+<a href="https://rocketseat-explorer-nu.vercel.app/" target="_blank" > <h1> Deploy **🚀** </h1></a>
 
 # Preview do projeto 🤩
 
