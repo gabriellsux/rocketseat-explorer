@@ -16,11 +16,13 @@ Topei encarar esse desafio e deixar o site com a mesma carinha de antes **💜**
 
 <div align="center">
   
-<a href="https://gabriellsux.github.io/rocketseat-explorer/STAGE02/CHALLENGE02" target="_blank" > <h1> Deploy **🚀** </h1></a>
+<a href="https://rocketseat-explorer-challenge02.vercel.app/" target="_blank" > <h1> Deploy **🚀** </h1></a>
 
 # Preview do projeto 🤩
 
 ![Screenshot_2](https://user-images.githubusercontent.com/101990719/175836894-b5219976-d0cb-4203-b27c-0ed51d5eadbe.png)
+<br/>
+<a href="https://rocketseat-explorer-challenge02.vercel.app/" target="_blank">Treine.me</a>
 
 </div>
 <h2 align="center">Para fazer o desafio usei 👇</h2>
